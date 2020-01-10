@@ -1,5 +1,6 @@
 soccer
 baseball
 basketball
-table tennis
+real tennis
 chess
+hot dog eating
