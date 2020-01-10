@@ -2,3 +2,4 @@ soccer
 baseball
 basketball
 table tennis
+chess
